@@ -1,0 +1,109 @@
+Copyright (c) 2026 Yesmin Jalaldeen
+
+# Secure Enterprise Network – Avalanch Corporation
+
+## Proprietary Project License
+
+**All Rights Reserved.**
+
+This project and its original contents are the intellectual property of the author. This repository is publicly available for **portfolio, demonstration, educational reference, and viewing purposes only**.
+
+Public access to this repository does not grant permission to copy, reproduce, modify, redistribute, or present the project as another person's work.
+
+---
+
+## 1. Protected Materials
+
+This license applies to all original materials associated with this project, including but not limited to:
+
+* Network architecture and topology
+* Network design and diagrams
+* IP addressing plans
+* Cisco Packet Tracer (`.pkt`) source files
+* Device configuration files
+* Network configuration sets
+* Project documentation
+* Screenshots and visual materials
+* Technical explanations
+* Implementation methods
+* Project structure and organization
+
+---
+
+## 2. Permitted Use
+
+Visitors may:
+
+* View the publicly available project materials.
+* Reference the project for general educational purposes.
+* Use publicly displayed information as a learning reference.
+* View the project as part of the author's professional portfolio.
+
+Such access does **not** transfer ownership or grant a license to reproduce, modify, distribute, or reuse the project.
+
+---
+
+## 3. Prohibited Use
+
+Without prior written permission from the author, you may not:
+
+* Copy or reproduce the project or substantial portions of it.
+* Download, redistribute, or republish protected source materials.
+* Reuse the complete network design or implementation.
+* Modify and publish the project or its components as your own work.
+* Submit the project or any substantial part of it for academic assessment.
+* Claim authorship or ownership of the project.
+* Use protected project materials for commercial purposes.
+* Remove, modify, or conceal copyright or ownership notices.
+* Incorporate substantial portions of this project into another project or submission.
+
+---
+
+## 4. Source File Protection
+
+The complete Cisco Packet Tracer source file (`.pkt`) and full device configuration files are considered **protected source materials**.
+
+These materials are **not publicly licensed** for copying, redistribution, modification, or reuse.
+
+The absence of these source files from the public repository is intentional and does not imply that they are available under this license.
+
+---
+
+## 5. Permission
+
+Permission to use, reproduce, modify, distribute, or incorporate protected project materials may be requested from the author.
+
+Any permission must be provided **in writing** by the author before the requested use takes place.
+
+Permission is granted solely at the author's discretion and may be subject to specific conditions.
+
+---
+
+## 6. Ownership
+
+All intellectual property rights relating to the original project materials remain with the author.
+
+Making this repository publicly accessible does **not** transfer ownership or grant any express or implied license to use the protected materials.
+
+---
+
+## 7. No Open-Source License
+
+This project is **not released under an open-source license**.
+
+No permission is granted under this license to freely copy, modify, distribute, or create derivative works from the protected project materials.
+
+---
+
+## 8. Disclaimer
+
+This license does not restrict rights that cannot legally be restricted under applicable law.
+
+Nothing in this license should be interpreted as a waiver of any rights or remedies available to the author under applicable law.
+
+---
+
+**©Yesmin Jalaldeen 2026  — All Rights Reserved.**
+
+**Project:** Virtual Firewall Deployment & Policy Configuration
+**Author:** Yesmin Jalaldeen
