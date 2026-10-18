@@ -61,7 +61,7 @@ The WAN interface connects to the mobile hotspot through a VirtualBox Bridged Ad
 
 The internal clients use pfSense as their default gateway, ensuring that their external traffic passes through the firewall.
 
-![Avalanch Corporation Network Blueprint](Network%20Design/Network%20Blueprint.png)
+![Virtual Enterprise Design Blueprint](Virtual%20Enterprise%20Design/Design%20Blueprint.png)
 
 ---
 
